@@ -44,12 +44,20 @@ Inspired by modern sports analytics platforms and ultimate frisbee stat tracking
 -Sports Analytics Concepts — Efficiency metrics, point-based normalization, and lineup analysis
 
 *Metrics Tracked*
-Category	                          Metrics
-Offensive Stats	                   Goals, Assists, Offensive Efficiency
-Defensive Stats	                   Ds (Blocks), Defensive Efficiency
-Playing Time	                     Minutes Played, Point Participation
-Advanced Metrics	                 Goals/Point, Assists/Point, Ds/Point
-Team Metrics	                     Point Differential, Possession Trends
+
+*Categories:*
+Offensive Stats	                   
+Defensive Stats	                
+Playing Time	                     
+Advanced Metrics	                 
+Team Metrics	                            
+
+*Metrics:* 
+Goals, Assists, Offensive Efficiency Ds (Blocks); 
+Defensive Efficiency; 
+Minutes Played, Point Participation;
+Goals/Point, Assists/Point, Ds/Point; 
+Point Differential, Possession Trends                  
 
 **Dashboard Goals**
 
